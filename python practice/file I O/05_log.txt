@@ -1,0 +1,2 @@
+Python is actually considered one of the easiest programming languages to learn. While anyone can learn Python programming — even if you've never written a line of Python code before — 
+you should expect that it will take time, and you should expect moments of frustration
